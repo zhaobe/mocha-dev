@@ -1,5 +1,6 @@
 var request = require("request"),
     assert = require("assert"),
+    helloWorld = require("../app.js"),
     home_url = "http://localhost:3000/"; //home url at port 3000
 
 describe("Hello World", function() {

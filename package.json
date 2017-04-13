@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zhaobe/mocha-dev#readme",
   "dependencies": {
+    "express": "^4.15.2",
     "mocha": "^3.2.0",
     "request": "^2.81.0"
   }
