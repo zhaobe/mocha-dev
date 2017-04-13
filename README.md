@@ -1,6 +1,8 @@
 # mocha-dev
 Simple mocha JS development
 
+[![Travis](https://travis-ci.org/zhaobe/mocha-dev.svg?branch=master)](https://travis-ci.org/zhaobe/mocha-dev)
+
 ## Setup
 - `npm install -g mocha`
 - `npm install request --save`

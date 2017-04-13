@@ -1,3 +1,5 @@
+"use strict";
+
 var express = require("express"),
     app = express();
 var exports = module.exports = {}; //create exports object

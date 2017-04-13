@@ -1,3 +1,5 @@
+"use strict";
+
 var request = require("request"),
     assert = require("assert"),
     helloWorld = require("../app.js"),
