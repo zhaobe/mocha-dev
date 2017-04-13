@@ -7,3 +7,5 @@ before_script:
     - npm install -g mocha
 script:
     - npm test
+notifications:
+    email: false
