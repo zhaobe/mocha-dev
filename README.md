@@ -11,3 +11,6 @@ Simple mocha JS development
 
 ## Usage
 - `mocha` runs your test/test.js file and tells if your test blocks pass or not
+
+## Setup coverage with Istanbul
+- `npm install -g istanbul`
